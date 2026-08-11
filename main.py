@@ -39,7 +39,7 @@ def open_case():
         data = request.get_json()
         caseId = data["case_id"]
         item= functions.openCase(caseId)
-        return {"success": True, "case_id": caseId, "item": item}
+        return {"success": True, "case_id": caseId, "item": item['drop_item'], "ticket": item['ticket']}
 
     except Exception as e:
         return {"success": False, "case_id": caseId, "error": str(e)}, 400
