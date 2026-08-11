@@ -1,0 +1,18 @@
+{
+  "cases":[
+    {
+      "id":1,
+      "name":"Cyber Case",
+      "image":"/static/images/cases/cyber_case.png",
+      "items":[
+        {"name":"Item 1","ticket_min":1,"ticket_max":100000,"rarity":"common","color":"#b0b0b0","image":"/static/images/items/item1.png"},
+        {"name":"Item 2","ticket_min":100001,"ticket_max":300000,"rarity":"uncommon","color":"#5e98d9","image":"/static/images/items/item2.png"},
+        {"name":"Item 3","ticket_min":300001,"ticket_max":600000,"rarity":"rare","color":"#8847ff","image":"/static/images/items/item3.png"},
+        {"name":"Item 4","ticket_min":600001,"ticket_max":800000,"rarity":"epic","color":"#d32ce6","image":"/static/images/items/item4.png"},
+        {"name":"Item 5","ticket_min":800001,"ticket_max":950000,"rarity":"legendary","color":"#eb4b4b","image":"/static/images/items/item5.png"},
+        {"name":"Item 6","ticket_min":950001,"ticket_max":999999,"rarity":"mythical","color":"#ffd700","image":"/static/images/items/item6.png"},
+        {"name":"Item 7","ticket_min":1000000,"ticket_max":1000000,"rarity":"legendary","color":"#ffd700","image":"/static/images/items/item7.png"}
+      ]
+    }
+  ]
+}
