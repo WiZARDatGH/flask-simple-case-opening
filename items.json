@@ -41,6 +41,14 @@
     {"id":39,"name":"Kitsune Fruit","rarity":"mythical","color":"#ffd700","image":"/static/images/items/Kitsune.webp"},
     {"id":40,"name":"Control Fruit","rarity":"mythical","color":"#ffd700","image":"/static/images/items/Control.webp"},
     {"id":41,"name":"East Dragon Fruit","rarity":"mythical","color":"#ffd700","image":"/static/images/items/EastDragon.webp"},
-    {"id":42,"name":"West Dragon Fruit","rarity":"mythical","color":"#ffd700","image":"/static/images/items/WestDragon.webp"}
+    {"id":42,"name":"West Dragon Fruit","rarity":"mythical","color":"#ffd700","image":"/static/images/items/WestDragon.webp"},
+    {"id":43,"name":"AWP | Lightning Strike","rarity":"covert","color":"#eb4b4b","image":"/static/images/items/LightningStrike.webp"},
+    {"id":44,"name":"AK-47 | Case Hardened","rarity":"classified","color":"#d32ce6","image":"/static/images/items/CaseHardened.webp"},
+    {"id":45,"name":"Desert Eagle | Hypnotic","rarity":"classified","color":"#d32ce6","image":"/static/images/items/Hypnotic.webp"},
+    {"id":46,"name":"AWP | Boom","rarity":"restricted","color":"#8847ff","image":"/static/images/items/Boom.webp"},
+    {"id":47,"name":"SG 553 | Ultraviolet","rarity":"restricted","color":"#8847ff","image":"/static/images/items/Ultraviolet.webp"},
+    {"id":48,"name":"MP7 | Bloodsport","rarity":"restricted","color":"#8847ff","image":"/static/images/items/MP7Bloodsport.webp"},
+    {"id":49,"name":"Glock-18 | Dragon Tattoo","rarity":"restricted","color":"#8847ff","image":"/static/images/items/DragonTattoo.webp"}
+
   ]
 }
