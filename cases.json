@@ -54,13 +54,13 @@
       "name":"Weapon Case",
       "image":"/static/images/cases/weapon_case.png",
       "items":[
-        {"item_id":43,"ticket_min":1,"ticket_max":550000},
-        {"item_id":44,"ticket_min":550001,"ticket_max":800000},
-        {"item_id":45,"ticket_min":800001,"ticket_max":920000},
+        {"item_id":49,"ticket_min":1,"ticket_max":550000},
+        {"item_id":48,"ticket_min":550001,"ticket_max":800000},
+        {"item_id":47,"ticket_min":800001,"ticket_max":920000},
         {"item_id":46,"ticket_min":920001,"ticket_max":970000},
-        {"item_id":47,"ticket_min":970001,"ticket_max":990000},
-        {"item_id":48,"ticket_min":990001,"ticket_max":998000},
-        {"item_id":49,"ticket_min":998001,"ticket_max":1000000}
+        {"item_id":45,"ticket_min":970001,"ticket_max":990000},
+        {"item_id":44,"ticket_min":990001,"ticket_max":998000},
+        {"item_id":43,"ticket_min":998001,"ticket_max":1000000}
       ]
     }
   ]
